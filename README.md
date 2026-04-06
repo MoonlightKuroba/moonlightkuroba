@@ -1,16 +1,17 @@
-## Hi there 👋
+# MoonlightKuroba (Clover) ☘︎
 
-<!--
-**MoonlightKuroba/moonlightkuroba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Content Creator/Vtuber** 🍃
 
-Here are some ideas to get you started:
+I'm a small content creator hoping to one day create my own games. I will be using this account to journal and share my progress on learning game development and art. I currently stream gaming related content on [Twtich](https://www.twitch.tv/moonlightkuroba), posting moments from stream to my [YouTube](https://www.youtube.com/@moonlightkuroba) and [Instagram](https://www.instagram.com/moonlightkuroba/). I hope to one day stream the process of me creating games for everyone to enjoy alongside my gaming related content.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Languages 👾
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+
+I am currently learning C++ 
+
+---
+
+Stay tuned for more! :)
